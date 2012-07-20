@@ -1,0 +1,25 @@
+# Generic build files:
+bin/
+obj/
+gen/
+
+# Eclipse project/setting files:
+local.properties
+.settings/
+.metadata/
+
+# Visual Studio project files:
+*.sln
+*.suo
+*.user
+
+# Diff tool files:
+*.orig
+*.bak
+
+# Windows OS files:
+Thumbs.db
+
+# Misc files:
+*.db
+*.cachefile

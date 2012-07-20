@@ -1,0 +1,1 @@
+This is a public repository based on the article "Pocket 1945 - A C# .NET CF Shooter" <http://www.codeproject.com/Articles/7293/Pocket-1945-A-C-NET-CF-Shooter> by Jonas Follesø.
