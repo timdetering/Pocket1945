@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Level Name="Level 2" Speed="15">
+	<Map>		
+<![CDATA[AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC
+CCCCCCCC
+AAAAAAAA
+BBBBBBBB
+BBBCCCBB
+ABCDABCD
+AAAAAAAA
+BBBBBBBB
+AAAAAAAA
+CCCCCCCC]]>		
+	</Map>
+	<MapElements>		
+		<Element X="30"  Y="100"  Height="65" Width="65" SpriteIndex="0" />
+		<Element X="60"  Y="150"  Height="65" Width="65" SpriteIndex="1" />
+		<Element X="120" Y="200"  Height="65" Width="65" SpriteIndex="2" />
+		<Element X="200" Y="300"  Height="65" Width="65" SpriteIndex="0" />
+		<Element X="30"  Y="400"  Height="65" Width="65" SpriteIndex="1" />
+		<Element X="60"  Y="500"  Height="65" Width="65" SpriteIndex="2" />
+		<Element X="120" Y="550"  Height="65" Width="65" SpriteIndex="0" />
+		<Element X="200" Y="600"  Height="65" Width="65" SpriteIndex="1" />
+		<Element X="30"  Y="700"  Height="65" Width="65" SpriteIndex="2" />
+		<Element X="60"  Y="800"  Height="65" Width="65" SpriteIndex="0" />
+		<Element X="120" Y="900"  Height="65" Width="65" SpriteIndex="1" />
+		<Element X="200" Y="1050" Height="65" Width="65" SpriteIndex="2" />
+		<Element X="30"  Y="1100" Height="65" Width="65" SpriteIndex="0" />
+		<Element X="60"  Y="1200" Height="65" Width="65" SpriteIndex="1" />
+		<Element X="120" Y="1400" Height="65" Width="65" SpriteIndex="2" />
+		<Element X="200" Y="1450" Height="65" Width="65" SpriteIndex="0" />						
+		<Element X="120" Y="1500" Height="65" Width="65" SpriteIndex="1" />
+		<Element X="200" Y="1600" Height="65" Width="65" SpriteIndex="2" />		
+	</MapElements>
+	<Enemies>
+		<Enemy X="30"  Y="100"  Speed="100" MovePattern="1" EnemyType="0" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="40"  Y="100"  Speed="100" MovePattern="1" EnemyType="1" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="160" Y="120"  Speed="100" MovePattern="1" EnemyType="2" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="150" Y="150"  Speed="100" MovePattern="1" EnemyType="3" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="60"  Y="200"  Speed="100" MovePattern="1" EnemyType="4" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="70"  Y="230"  Speed="100" MovePattern="1" EnemyType="5" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="120" Y="300"  Speed="100" MovePattern="1" EnemyType="1" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="30"  Y="350"  Speed="100" MovePattern="1" EnemyType="2" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="120" Y="400"  Speed="100" MovePattern="1" EnemyType="3" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="200" Y="400"  Speed="100" MovePattern="1" EnemyType="3" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="160" Y="500"  Speed="100" MovePattern="1" EnemyType="4" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="40"  Y="550"  Speed="100" MovePattern="1" EnemyType="3" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="100" Y="600"  Speed="100" MovePattern="1" EnemyType="1" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />		
+		<Enemy X="60"  Y="620"  Speed="100" MovePattern="1" EnemyType="5" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />		
+		<Enemy X="110" Y="700"  Speed="100" MovePattern="1" EnemyType="0" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="210" Y="750"  Speed="100" MovePattern="1" EnemyType="1" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="50"  Y="800"  Speed="100" MovePattern="1" EnemyType="1" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="190" Y="810"  Speed="100" MovePattern="1" EnemyType="2" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="90"  Y="930"  Speed="100" MovePattern="1" EnemyType="4" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="180" Y="920"  Speed="100" MovePattern="1" EnemyType="1" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="50"  Y="1010" Speed="100" MovePattern="1" EnemyType="2" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="160" Y="1050" Speed="100" MovePattern="1" EnemyType="1" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="200" Y="1100" Speed="100" MovePattern="1" EnemyType="5" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="90"  Y="1200" Speed="100" MovePattern="1" EnemyType="1" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="120" Y="1250" Speed="100" MovePattern="1" EnemyType="0" BulletType="0" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="160" Y="1300" Speed="100" MovePattern="1" EnemyType="1" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="190" Y="1300" Speed="100" MovePattern="1" EnemyType="2" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="40"  Y="1350" Speed="100" MovePattern="1" EnemyType="3" BulletType="2" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="210" Y="1390" Speed="100" MovePattern="1" EnemyType="4" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="50"  Y="1400" Speed="100" MovePattern="1" EnemyType="5" BulletType="4" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="40"  Y="1500" Speed="100" MovePattern="1" EnemyType="1" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+		<Enemy X="140" Y="1500" Speed="100" MovePattern="1" EnemyType="0" BulletType="1" BulletPower="15" BulletSpeed="220" BulletReloadTime="1000" Power="15" Score="75" />
+	</Enemies>
+	<Bonuses>
+		<Bonus X="100" Y="400"  Speed="50" BonusType="2" />
+		<Bonus X="120" Y="900"  Speed="50" BonusType="6" />		
+		<Bonus X="140" Y="1400" Speed="50" BonusType="0" />		
+	</Bonuses>	
+</Level>
