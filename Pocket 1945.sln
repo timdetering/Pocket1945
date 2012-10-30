@@ -1,23 +1,19 @@
-Microsoft Visual Studio Solution File, Format Version 8.00
-Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "Pocket1945", "Pocket1945\Pocket1945.csdproj", "{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}"
-	ProjectSection(ProjectDependencies) = postProject
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pocket1945.Win", "Pocket1945\Pocket1945.Win.csproj", "{95FDF34D-8B13-48C4-92FA-DA1EA358EB43}"
 EndProject
 Global
-	GlobalSection(SolutionConfiguration) = preSolution
-		Debug = Debug
-		Release = Release
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
-	GlobalSection(ProjectConfiguration) = postSolution
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Debug.ActiveCfg = Debug|Pocket PC
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Debug.Build.0 = Debug|Pocket PC
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Debug.Deploy.0 = Debug|Pocket PC
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Release.ActiveCfg = Release|Pocket PC
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Release.Build.0 = Release|Pocket PC
-		{77DC6C48-4DAE-401E-BDB7-DAFAAC6C1860}.Release.Deploy.0 = Release|Pocket PC
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FDF34D-8B13-48C4-92FA-DA1EA358EB43}.Debug|x86.ActiveCfg = Debug|x86
+		{95FDF34D-8B13-48C4-92FA-DA1EA358EB43}.Debug|x86.Build.0 = Debug|x86
+		{95FDF34D-8B13-48C4-92FA-DA1EA358EB43}.Release|x86.ActiveCfg = Release|x86
+		{95FDF34D-8B13-48C4-92FA-DA1EA358EB43}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-	EndGlobalSection
-	GlobalSection(ExtensibilityAddIns) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

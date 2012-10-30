@@ -1,10 +1,13 @@
 using System;
 using System.Data;
 using System.Diagnostics;
-using Microsoft.WindowsCE.Forms;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using System.Collections;
+
+#if PocketPC
+using Microsoft.WindowsCE.Forms;
+#endif
 
 namespace Pocket1945
 {
@@ -79,6 +82,7 @@ namespace Pocket1945
 		[DllImport("coredll.dll")]
 		protected static extern short GetAsyncKeyState(int vKey); 
 
+#if PocketPC
 		/// <summary>
 		/// MessageWindow class that overrides hotkeys.
 		/// </summary>
@@ -95,6 +99,7 @@ namespace Pocket1945
 				}
 			}
 		}
+#endif
 
 		/// <summary>
 		/// Bitmask used to access if a button is currently pressed.
